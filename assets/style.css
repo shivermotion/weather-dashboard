@@ -2,3 +2,7 @@
 	width: 30%;
 	height: auto;
 }
+
+.card-text {
+	text-align: end;
+}
