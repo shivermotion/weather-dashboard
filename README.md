@@ -5,6 +5,7 @@ Repo: https://github.com/shivermotion/weather-dashboard
 
 
 
+![weather-dashboard-snapshot](https://user-images.githubusercontent.com/75548830/143179399-a96f4181-ac0e-4548-afe4-34d36cb67a4f.png)
 
 
 
